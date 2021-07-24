@@ -1,5 +1,7 @@
-# C-REAL BOT COMMANDS
-```py
+<h1 align="center">C-REAL BOT COMMANDS</h1>
+<p align="center">
+
+  ```py
 help - Shows this help command
 
 servers - Displays all servers you can connect
